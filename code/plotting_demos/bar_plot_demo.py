@@ -11,7 +11,7 @@ tick_label = ['one', 'two', 'three', 'four', 'five']
 
 # plotting a bar chart
 plt.bar(left, height, tick_label=tick_label,
-        width=0.8, color=['red', 'green'])
+        width=0.8, color=['blue', 'red', 'green'])
 
 # naming the x-axis
 plt.xlabel('x - axis')
